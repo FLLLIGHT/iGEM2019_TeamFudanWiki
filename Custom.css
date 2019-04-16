@@ -1,0 +1,24 @@
+.carousel slide img{
+    height: 900px;
+}
+
+
+.hover-arrow:after {
+    display: inline-block;
+    margin-left: .375rem;
+    transition: transform 0.2s ease;
+    content: '->';
+}
+
+.hover-arrow:hover:after {
+    transform: translate3d(6px, 0, 0);
+}
+
+body.fade-page {
+    opacity: 0;
+}
+
+.bg-primary-3 {
+    background-color: #1B1F3B !important; }
+
+::selection{background:#72d0eb;color:#fff;text-shadow:none}
