@@ -1,6 +1,8 @@
 # iGEM2019_TeamFudanWiki
 
+### ver2.0.0(updated at 2019.4.22 by zitao)
 
+> 将所用jquery和popper本地化，便于今后上传iGEM服务器（iGEM规定：所用资源均需上传至iGEM服务器，不能通过网络调用其他服务器资源）
 
 ### ver1.0.1 (updated at 2019.4.22 by zitao)
 
