@@ -21,7 +21,7 @@ body.fade-page {
 .bg-primary-3 {
     background-color: #1B1F3B !important; }
 
-::selection{background:#72d0eb;color:#fff;text-shadow:none}
+::selection{background-color:rgba(254,255,157,0.9);color:black;text-shadow: none;}
 
 .target-fix{
     position: relative;
